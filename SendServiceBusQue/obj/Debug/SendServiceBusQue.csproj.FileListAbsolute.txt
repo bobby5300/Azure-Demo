@@ -1,0 +1,14 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\SendServiceBusQue.exe.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\SendServiceBusQue.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\SendServiceBusQue.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\obj\Debug\SendServiceBusQue.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\obj\Debug\SendServiceBusQue.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\obj\Debug\SendServiceBusQue.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\AzureFunctionsToolkit.Portable.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Polly.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Polly.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendServiceBusQue\bin\Debug\Polly.xml

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AzureFunctionsToolkit</id>
+	<title>Functions Toolkit</title>
+    <version>0.3.4</version>
+    <authors>Jordan</authors>
+    <owners>Jordan</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/jakkaj/FunctionToolkit</projectUrl>
+    <iconUrl>http://xamling.net/Media/Images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Some little helpers to make writing Azure Functions in C# a litle easier</description>
+    <releaseNotes>	
+	Contact Jordan @jakkaj info@xamling.net. 
+	</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Azure AzureFunctions Functions Toolkit</tags>
+    <dependencies>     
+       <dependency id="Newtonsoft.Json" version="7.0.1" />
+    </dependencies>
+  </metadata>
+</package>

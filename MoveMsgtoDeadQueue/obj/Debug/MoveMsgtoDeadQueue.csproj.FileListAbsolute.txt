@@ -1,0 +1,8 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\bin\Debug\MoveMsgtoDeadQueue.exe.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\bin\Debug\MoveMsgtoDeadQueue.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\bin\Debug\MoveMsgtoDeadQueue.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\obj\Debug\MoveMsgtoDeadQueue.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\obj\Debug\MoveMsgtoDeadQueue.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MoveMsgtoDeadQueue\obj\Debug\MoveMsgtoDeadQueue.pdb

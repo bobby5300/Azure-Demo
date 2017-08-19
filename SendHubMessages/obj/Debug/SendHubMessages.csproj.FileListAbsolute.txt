@@ -1,0 +1,16 @@
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\SendHubMessages.exe.config
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\SendHubMessages.exe
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\SendHubMessages.pdb
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\Microsoft.Azure.EventHubs.dll
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\obj\Debug\SendHubMessages.csprojResolveAssemblyReference.cache
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\obj\Debug\SendHubMessages.exe
+c:\Users\h.tammireddy\documents\visual studio 2015\Projects\HubDemo\SendHubMessages\obj\Debug\SendHubMessages.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\Json.NET.Web.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\SendHubMessages\bin\Debug\AzureFunctionsToolkit.Portable.dll
