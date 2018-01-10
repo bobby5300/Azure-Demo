@@ -1,0 +1,11 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Service.exe.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Service.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Service.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\obj\Debug\Service.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\obj\Debug\Service.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\AzureFunctionsToolkit.Portable.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Service\bin\Debug\Newtonsoft.Json.xml

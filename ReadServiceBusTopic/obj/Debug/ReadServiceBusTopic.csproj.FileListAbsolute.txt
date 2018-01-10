@@ -1,0 +1,15 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\ReadServiceBusTopic.exe.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\ReadServiceBusTopic.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\ReadServiceBusTopic.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\Json.NET.Web.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\obj\Debug\ReadServiceBusTopic.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\obj\Debug\ReadServiceBusTopic.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\obj\Debug\ReadServiceBusTopic.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusTopic\bin\Debug\AzureFunctionsToolkit.Portable.dll

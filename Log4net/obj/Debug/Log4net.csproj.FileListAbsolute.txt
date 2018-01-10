@@ -1,0 +1,10 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\log4net.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\Log4net.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\Log4net.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\log4net.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\obj\Debug\Log4net.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\obj\Debug\Log4net.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\obj\Debug\Log4net.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\AzureFunctionsToolkit.Portable.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\Log4net\bin\Debug\Newtonsoft.Json.xml

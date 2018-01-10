@@ -1,0 +1,11 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\ReadServiceBusQue.exe.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\ReadServiceBusQue.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\ReadServiceBusQue.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\obj\Debug\ReadServiceBusQue.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\obj\Debug\ReadServiceBusQue.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\obj\Debug\ReadServiceBusQue.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\ReadServiceBusQue\bin\Debug\AzureFunctionsToolkit.Portable.dll
