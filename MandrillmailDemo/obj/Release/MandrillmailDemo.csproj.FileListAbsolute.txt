@@ -1,0 +1,15 @@
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\log4net.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\MandrillmailDemo.exe.config
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\MandrillmailDemo.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\MandrillmailDemo.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\Mandrill.net.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\Newtonsoft.Json.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\Spectra.Logging.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\log4net.dll
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\Spectra.Logging.pdb
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\Newtonsoft.Json.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\bin\Release\log4net.xml
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\obj\Release\MandrillmailDemo.csprojResolveAssemblyReference.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\obj\Release\MandrillmailDemo.csproj.CoreCompileInputs.cache
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\obj\Release\MandrillmailDemo.exe
+C:\Users\h.tammireddy\Documents\Visual Studio 2015\Projects\HubDemo\MandrillmailDemo\obj\Release\MandrillmailDemo.pdb
