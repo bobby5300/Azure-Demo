@@ -58,9 +58,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Log4net\Log4net.csproj">
+    <ProjectReference Include="..\Log4net\Spectra.Logging.csproj">
       <Project>{cd43c889-d45e-4621-953a-a22f54c57f3b}</Project>
-      <Name>Log4net</Name>
+      <Name>Spectra.Logging</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
